@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20inho%27s github&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%alicelee1231%27s github&fontSize=70" />
 
 <div align=center> 
   <p>
   <a href="https://houuuuu.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white%22/%3E</a>
-  <a href="mailto:inhouuuuu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/alicelee1231@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white%22/%3E</a>
+  <a href="mailto:alicelee1231@gmail.com" target="_blank"><img src="https://img.shields.io/badge/alicelee1231@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white%22/%3E</a>
 
 </p>
 <p>
