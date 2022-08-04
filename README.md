@@ -9,7 +9,7 @@
   
 </p>
 <p>
-  Hi thank you for visiting my git hub.
+  Hi thank you for visiting my git hub. <br/>
   And I just started to study Coding, but I am sure I will be a good developer who can interact with many people smoothly.<br/>
   
   你好 谢谢访问我的Github
