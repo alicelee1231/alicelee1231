@@ -10,9 +10,11 @@
 </p>
 <p>
   Hi thank you for visiting my git hub. <br/>
-  And I just started to study Coding, but I am sure I will be a good developer who can interact with many people smoothly.<br/>
+  And I just started to study Coding, but I am sure I will be a good developer who can interact with many people smoothly.😊<br/>
   
-  你好 谢谢访问我的Github
+  你好 谢谢访问我的Github <br/>
+  我只是刚刚开始学编码，但是我是一个平易近人，沟通能力很强的人。<br/>
+  所以我相信我早晚我能提高编码能力。
   ✨ <br/><br/>
 </p>
 
