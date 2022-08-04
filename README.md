@@ -9,8 +9,11 @@
   
 </p>
 <p>
-  Hello I am a new developer.<br/>
-  My goal is to develop services that will make life easier.. ✨ <br/><br/>
+  Hi thank you for visiting my git hub.
+  And I just started to study Coding, but I am sure I will be a good developer who can interact with many people smoothly.<br/>
+  
+  你好 谢谢访问我的Github
+  ✨ <br/><br/>
 </p>
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alicelee1231&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1nhou&layout=compact&hide_border=true&theme=white)
