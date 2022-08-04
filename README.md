@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=Hello%20Guys!&desc=认识你很高兴&descAlignY=90)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20sammie github&fontSize=70" />
+
 
 <div align=center> 
   <p>
   <a href="https://velog.io/@alicelee" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:inhouuuuu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/inhouuuuu@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:saemmilee1231@gmail.com" target="_blank"><img src="https://img.shields.io/badge/saemmilee1231@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
 </p>
 <p>
