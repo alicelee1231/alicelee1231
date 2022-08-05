@@ -15,7 +15,9 @@
   
   你好 谢谢访问我的Github <br/>
   我只是刚刚开始学编码，但是我对编码有很大的热情。<br/>
-  所以我相信我的编码能力迅速成长😆。 ✨ <br/><br/>
+  所以我相信我的编码能力迅速成长😆。 
+  请放松地欣赏我的Github😊
+  ✨ <br/><br/>
 </p>
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alicelee1231&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1nhou&layout=compact&hide_border=true&theme=white)
