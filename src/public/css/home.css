@@ -138,6 +138,43 @@ header .desktopHeader .login .loginText:hover {
   }
 }
 
+/*******  intro_wrapper  ********/
+.intro_wrapper .intro_wrap {
+  width: 90%;
+  margin: 130px auto 90px auto;
+}
+
+.intro_wrapper .intro_wrap {
+  display: flex;
+}
+
+.intro_wrap .intro_img {
+  width: 41em;
+  height: 20em;
+}
+
+.intro_wrap .intro {
+  width: 50%;
+}
+
+.intro .intro_title {
+  font-family: 'Fredoka One', cursive;
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 60px;
+}
+
+.intro .intro_sub {
+  text-align: center;
+  line-height: 1.5;
+  margin: 30px 20px 0 20px;
+}
+
+.intro .intro_sub span {
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
 /*******  section  ********/
 
 section .articlePoster {
@@ -205,8 +242,6 @@ section .articleBoard .boardLeft {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-right: 2%;
-  border-top: 2px solid rgb(170, 169, 169);
   height: 100%;
   width: 41%;
 }
@@ -258,7 +293,6 @@ section .articleBoard .boardRight {
   align-items: center;
   justify-content: center;
   margin-left: 2%;
-  border-top: 2px solid rgb(170, 169, 169);
   height: 100%;
   width: 41%;
 }
@@ -409,4 +443,19 @@ section .articleBoard .boardRight table tbody tr td:nth-child(2) {
     text-overflow: ellipsis;
     overflow: hidden;
   }
+}
+
+/*******  footer  ********/
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 100vw;
+  height: 120px;
+}
+
+footer .footerText {
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 700;
 }
