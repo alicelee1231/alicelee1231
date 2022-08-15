@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/css/common.css" />
+    <link rel="stylesheet" href="/css/usage.css" />
+    <title>우리들의 사용량 보기</title>
+  </head>
+  <body>
+    <header id="header">
+      <div class="desktopHeader">
+        <div class="logo">
+          <a href="/">SaveWorld</a>
+        </div>
+        <nav>
+          <li><a href="#">소개</a></li>
+          <li><a href="#">재활용 정보</a></li>
+          <li><a href="#">우리들의 사용량</a></li>
+          <li><a class="loginText" href="/login">로그인</a></li>
+        </nav>
+      </div>
+    </header>
+
+    <div class="line_wrap">우리들의 사용량 보기</div>
+
+    <div class="health_wrapper">
+      <div class="health_wrap">
+        <table class="table">
+          <thead>
+            <tr>
+              <th>번호</th>
+              <th>지역</th>
+              <th>제목</th>
+              <th>아이디</th>
+              <th>날짜</th>
+            </tr>
+          </thead>
+          <tbody>
+            <% data.forEach(el => { %>
+            <tr>
+              <td><%=el.id%></td>
+              <td><%=el.area%></td>
+              <td><%=el.title%></td>
+              <td><%=el.userId%></td>
+              <td><%=el.createdAt%></td>
+            </tr>
+            <% }) %>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <!-- health_wrapper -->
+
+    <footer id="footer">
+      <div class="footerText">문의 : sammy342@naver.com</div>
+    </footer>
+
+    <script src="/js/usage.js"></script>
+  </body>
+</html>

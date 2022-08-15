@@ -15,7 +15,7 @@ export class HomeController {
 
   @Post('/test')
   async button(@Body() data) {
-    console.log(data);
+    console.log(data, '=============');
     return await this.homeService.create(data);
   }
 

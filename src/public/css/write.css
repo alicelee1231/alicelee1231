@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+/*******  header  ********/
+header {
+  width: 100%;
+}
+
+header .desktopHeader {
+  display: flex;
+  padding: 15px;
+  justify-content: space-between;
+}
+
+header .desktopHeader .logo {
+  padding: 0 10px;
+}
+
+header .desktopHeader .logo a {
+  font-family: 'Fredoka One', cursive;
+  color: black;
+  font-size: 40px;
+}
+
+header .desktopHeader nav {
+  display: flex;
+  align-items: center;
+}
+header .desktopHeader nav li {
+  padding: 0 20px;
+}
+
+header .desktopHeader nav li:hover {
+  border-bottom: 3px solid black;
+  transition: 0.1s linear;
+}
+
+header .desktopHeader nav li a {
+  font-size: 1.3rem;
+  color: black;
+}
+
+header .desktopHeader .login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 16vw;
+}
+
+header .desktopHeader .login .name {
+  color: rgb(170, 169, 169);
+  font-size: 1rem;
+}
+
+header .desktopHeader .login .fa-solid {
+  color: black;
+  margin-left: 10px;
+  font-size: 1.5rem;
+}
+
+header .desktopHeader .login a {
+  font-size: 1.5rem;
+  padding: 0 0.5rem;
+  color: black;
+  cursor: pointer;
+}
+
+header .desktopHeader .login .loginText:hover {
+  border-bottom: 3px solid black;
+  transition: 0.1s linear;
+}
+
+/**  line_wrap  ***/
+.line_wrap {
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  text-align: center;
+  padding: 20px 0;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+/**  write_wrap  **/
+.write_wrap {
+  display: flex;
+  justify-content: center;
+  height: 588px;
+  margin-top: 40px;
+}
+
+.write_wrap form {
+  width: 550px;
+}
+
+.write_wrap .write {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.write input {
+  height: 40px;
+  width: 80%;
+  text-indent: 10px;
+}
+
+.write label {
+  width: 20%;
+  text-align: center;
+}
+
+.write select {
+  width: 80%;
+  height: 40px;
+}
+
+.write textarea {
+  width: 80%;
+  resize: none;
+}
+
+.button_wrap {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.button_wrap button {
+  padding: 12px;
+  cursor: pointer;
+  width: 80%;
+  margin-left: 111px;
+  margin-top: 13px;
+  border-radius: 10px;
+  border: none;
+}
+
+.button_wrap button:hover {
+  background-color: #fff;
+  border: 1px solid #000;
+}
+
+/*******  footer  ********/
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 100vw;
+  height: 120px;
+}
+
+footer .footerText {
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 700;
+}
