@@ -9,6 +9,9 @@
   
 </p>
 <p>
+  안녕하세요. 새내기 개발자 이샘미입니다.
+  방문 감사합니다!! 😆
+  
   Hi thank you for visiting my git hub. <br/>
   And I just started to study Coding, <br/>
   but I am sure I will be a good developer who can interact with many people smoothly.😊<br/>
