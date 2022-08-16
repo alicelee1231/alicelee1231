@@ -15,11 +15,16 @@ export class UsageService {
   }
 
   async create(data) {
-    const result = await this.usageRepository.save({
+    const date = new Date();
+    const yyyy = date.getFullYear();
+    const mm = String(date.getMonth() + 1).padStart(2, '0');
+    const dd = String(date.getDate()).padStart(2, '0');
+    const currentDate = `${yyyy}-${mm}-${dd}`;
+    await this.usageRepository.save({
       area: data.area,
       userId: data.userId,
       title: data.title,
+      createdAt: currentDate,
     });
-    return result;
   }
 }

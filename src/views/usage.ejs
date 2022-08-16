@@ -25,6 +25,10 @@
 
     <div class="line_wrap">우리들의 사용량 보기</div>
 
+    <div class="write_wrap">
+      <a href="/write">글쓰기</a>
+    </div>
+
     <div class="health_wrapper">
       <div class="health_wrap">
         <table class="table">
@@ -42,7 +46,7 @@
             <tr>
               <td><%=el.id%></td>
               <td><%=el.area%></td>
-              <td><%=el.title%></td>
+              <td><a href="/detail/<%=el.id%>"><%=el.title%></a></td>
               <td><%=el.userId%></td>
               <td><%=el.createdAt%></td>
             </tr>
