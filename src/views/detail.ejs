@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="/css/common.css" />
     <link rel="stylesheet" href="/css/detail.css" />
+
     <!-- axios 사용 -->
     <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
     <title>글쓰기</title>
@@ -37,24 +38,28 @@
       <tbody>
         <tr>
           <td>분류</td>
-          <td>재활용품 및 일회용품</td>
+          <td><%=data.sort%></td>
           <td>지역</td>
-          <td>대전</td>
+          <td><%=data.area%></td>
           <td>글쓴이</td>
-          <td>더 줄여보자</td>
+          <td><%=data.userId%></td>
         </tr>
         <td>기간</td>
-        <td>7월 8일 ~ 7월 15일</td>
+        <td><%=data.period%></td>
         <td>목표</td>
-        <td colspan="3">쓰레기 줄이기 위한 한마디</td>
+        <td colspan="3"><%=data.goal%></td>
       </tbody>
     </table>
   </div>
   <div class="content">
-    <textarea name="" id="" cols="30" rows="10" readonly></textarea>
+    <textarea name="" id="content" style="height: 622px" readonly><%=data.content%></textarea>
   </div>
   <div class="listBtn">
-    <button type="button" id="">목록</button>
+    <button type="button" id="update">수정하기</button>
+  </div>
+
+  <div class="listBtn">
+    <button type="button" id="getList">목록</button>
   </div>
 </section>
 <!--  section  -->
@@ -62,6 +67,7 @@
   <div class="footerText">문의 : sammy342@naver.com</div>
 </footer>
 
-<script src="/js/usage.js"></script>
+<script src="/js/detail.js"></script>
+
 </body>
 </html>

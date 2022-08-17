@@ -10,6 +10,7 @@ export class WriteController {
   @Render('write')
   async write(@Param('id') id: string) {
     const result = await this.writeService.findOne(id);
+    console.log(result);
     return { data: result };
   }
 
@@ -19,4 +20,11 @@ export class WriteController {
   async load() {
     return { data: 'testing...' };
   }
+
+  // @Get('/:id')
+  // @Render('write')
+  // async update(@Param('id') id: string) {
+  //   const result = await this.writeService.update(id);
+  //   return { data: result };
+  // }
 }

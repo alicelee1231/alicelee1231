@@ -121,7 +121,9 @@ header .desktopHeader .login .loginText:hover {
 table,
 th,
 td {
-  border: 1px solid #000;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  padding: 13px 0;
   border-collapse: collapse;
 }
 
@@ -129,6 +131,12 @@ td {
   width: 100%;
   text-align: center;
   margin-top: 50px;
+}
+
+.table tbody tr td {
+  border-bottom: 2px solid rgba(170, 169, 169);
+  padding: 9px 0;
+  font-size: 0.8rem;
 }
 
 /*******  footer  ********/

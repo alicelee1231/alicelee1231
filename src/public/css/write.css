@@ -113,6 +113,7 @@ header .desktopHeader .login .loginText:hover {
 .write select {
   width: 80%;
   height: 40px;
+  text-indent: 10px;
 }
 
 .write textarea {

@@ -25,10 +25,21 @@
       </div>
     </header>
 
-    <div class="line_wrap">글쓰기</div>
+    <div class="line_wrap">
+      <a href="/write">글쓰기</a>
+    </div>
 
     <div class="write_wrap">
       <form action="" method="post">
+        <div class="write">
+          <label for="">분류</label>
+          <select name="type" id="type">
+            <option value="생활쓰레기">생활쓰레기</option>
+            <option value="재활용품">재활용품</option>
+            <option value="건전지">건전지</option>
+            <option value="불연성쓰레기">불연성쓰레기</option>
+          </select>
+        </div>
         <div class="write">
           <label for="title">제목</label>
           <input id="title" type="text" />
@@ -38,21 +49,31 @@
           <input id="userId" type="text" />
         </div>
         <div class="write">
-          <label for="email">이메일</label>
-          <input id="email" type="text" />
+          <label for="기간">기간</label>
+          <input id="period" type="text" />
         </div>
         <div class="write">
-          <label for="area">지역</label>
-          <input id="area" type="text" />
+          <label for="areas">지역</label>
+          <select name="areas" id="areas">
+            <option value="서울">서울</option>
+            <option value="부산">부산</option>
+            <option value="대구">대구</option>
+            <option value="인천">인천</option>
+            <option value="대전">대전</option>
+            <option value="광주">광주</option>
+            <option value="울산">울산</option>
+            <option value="제주">제주</option>
+            <option value="세종">세종</option>
+          </select>
+        </div>
+        <div class="write">
+          <label for="목표">목표</label>
+          <input id="goal" type="text" />
         </div>
 
         <div class="write">
-          <label for="">연락처</label>
-          <input id="phone" type="number" placeholder="숫자만 입력해주세요" />
-        </div>
-        <div class="write">
-          <label for="">내용</label>
-          <textarea name="" id="" cols="30" rows="10"></textarea>
+          <label for="content">내용</label>
+          <textarea name="" id="content" cols="30" rows="10"></textarea>
         </div>
         <div class="button_wrap">
           <button id="" type="button" onclick="aaa()">등록하기</button>

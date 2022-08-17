@@ -1,9 +1,4 @@
-import {
-  Column,
-  CreateDateColumn,
-  Entity,
-  PrimaryGeneratedColumn,
-} from 'typeorm';
+import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 
 @Entity()
 export class Usage {
@@ -11,14 +6,26 @@ export class Usage {
   id: string;
 
   @Column()
-  area: string;
+  title: string;
 
   @Column()
   userId: string;
 
   @Column()
-  title: string;
+  area: string;
+
+  @Column()
+  content: string;
 
   @Column()
   createdAt: string;
+
+  @Column()
+  sort: string;
+
+  @Column()
+  period: string;
+
+  @Column()
+  goal: string;
 }

@@ -9,10 +9,12 @@ export class UsageController {
   @Render('usage')
   async usage() {
     const result = await this.usageService.find();
-    return { data: result };
+    console.log(result);
+    return { data: result.result, count: result.count };
   }
   @Post('/')
   async click(@Body() data) {
+    console.log(data);
     return await this.usageService.create(data);
   }
 }

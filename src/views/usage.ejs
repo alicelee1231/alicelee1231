@@ -29,16 +29,18 @@
       <a href="/write">글쓰기</a>
     </div>
 
+    <h1><%= count %></h1>
     <div class="health_wrapper">
       <div class="health_wrap">
         <table class="table">
           <thead>
             <tr>
-              <th>번호</th>
-              <th>지역</th>
-              <th>제목</th>
-              <th>아이디</th>
-              <th>날짜</th>
+              <th width="10%">번호</th>
+              <th width="10%">지역</th>
+              <th width="10%">분류</th>
+              <th with="35%">제목</th>
+              <th width="10%">아이디</th>
+              <th width="10%">날짜</th>
             </tr>
           </thead>
           <tbody>
@@ -46,6 +48,7 @@
             <tr>
               <td><%=el.id%></td>
               <td><%=el.area%></td>
+              <td><%=el.sort%></td>
               <td><a href="/detail/<%=el.id%>"><%=el.title%></a></td>
               <td><%=el.userId%></td>
               <td><%=el.createdAt%></td>

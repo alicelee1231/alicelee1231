@@ -17,4 +17,13 @@ export class WriteService {
       },
     });
   }
+  // async update(id, updateUsageInput) {
+  //   await this.usageRepository.findOne({
+  //     where: { id },
+  //     relations: ['usage'],
+  //   });
+  //   const result = await this.usageRepository.save({
+  //     ...updateUsageInput,
+  //   });
+  // }
 }
