@@ -13,12 +13,9 @@
   방문 감사합니다!! 😆
   
   Hi thank you for visiting my git hub. <br/>
-  And I just started to study Coding, <br/>
-  but I am sure I will be a good developer who can interact with many people smoothly.😊<br/>
+
   
   你好 谢谢访问我的Github <br/>
-  我只是刚刚开始学编码，但是我对编码有很大的热情。<br/>
-  所以我相信我的编码能力迅速成长😆。 
   请放松地欣赏我的Github😊
   ✨ <br/><br/>
 </p>
