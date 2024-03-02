@@ -13,10 +13,8 @@
   방문 감사합니다!! 😆
   
   Hi thank you for visiting my git hub. <br/>
-
   
-  你好 谢谢访问我的Github <br/>
-  请放松地欣赏我的Github😊
+  你好 谢谢访问我的Github😊 <br/>
   ✨ <br/><br/>
 </p>
  
@@ -41,6 +39,9 @@
 <p>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+<p>
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 </p>
 </div>
 </div>
