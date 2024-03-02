@@ -12,10 +12,10 @@
   안녕하세요. 개발자 이샘미입니다.
   방문 감사합니다!! 😆
   
-  Hi thank you for visiting my git hub. <br/>
+ ✨ Hi thank you for visiting my git hub.✨ <br/>
   
-  你好 谢谢访问我的Github😊 <br/>
-  ✨ <br/><br/>
+  ✨ 你好 谢谢访问我的Github ✨ <br/>
+   <br/><br/>
 </p>
  
   
