@@ -4,7 +4,7 @@
 
 <div align=center> 
   <p>
-  <a href="https://velog.io/@alicelee" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://keep-trying-until-the-end.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:saemmilee1231@gmail.com" target="_blank"><img src="https://img.shields.io/badge/saemmilee1231@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
 </p>
