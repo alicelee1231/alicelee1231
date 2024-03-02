@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Hello%10Guys!&fontAlign=56&desc=认识你很高兴&descAlignY=90&descAlign=54)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Hello%20Guys!&fontAlign=56&desc=认识你很高兴&descAlignY=90&descAlign=10)
 
 
 <div align=center> 
