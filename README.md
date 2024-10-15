@@ -9,7 +9,7 @@
   
 </p>
 <p>
-  안녕하세요. 개발자 이샘미입니다.
+  안녕하세요. 프론트 웹 개발자 이샘미입니다.
   방문 감사합니다!! 😆
   
  ✨ Hi thank you for visiting my git hub.✨ <br/>
