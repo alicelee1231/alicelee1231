@@ -13,8 +13,8 @@
   방문해 주셔서 감사합니다.🧸✨
   
  ✨ Hi thank you for visiting my git hub.✨ <br/>
-    
-    Main Stack : React, Typescript, Jacascript, Sql <br/>
+    <h4>✨ Main Stack : React, Typescript, Jacascript, Sql✨ </h4>
+   ✨ I love to experience new things and chanllenges ✨
     
   ✨ 你好 谢谢访问我的Github ✨ <br/>
    <br/><br/>
